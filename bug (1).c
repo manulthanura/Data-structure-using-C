@@ -1,3 +1,6 @@
+// Simple bug game
+// The bug can turn only right and go forward
+
 #include <stdio.h>
 #include<stdlib.h>
 #include<windows.h>
