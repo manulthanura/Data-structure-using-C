@@ -1,3 +1,5 @@
+// basic implementation of a Hashing Data Structure data structure in C, In this code, the user is prompted to make a decision on what operation to perform (add, update, delete, or exit), and the appropriate function is called based on the decision. The program will keep prompting the user for a decision until they choose to exit the program.
+
 #include <stdio.h>
 #include <stdlib.h>
 
