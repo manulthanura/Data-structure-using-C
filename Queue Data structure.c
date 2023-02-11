@@ -1,5 +1,5 @@
-/* A simple Tree (dynamic) implementation
-Date created: Friday; April 01, 2022 */
+/* Queue Data structure implementation
+Date created: Saturday; February 01, 2023 */
 
 
 #include <stdio.h>
