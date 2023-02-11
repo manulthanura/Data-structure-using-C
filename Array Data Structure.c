@@ -40,16 +40,45 @@ void delete(int index) {
 }
 
 int main() {
-  add(1);
-  add(2);
-  add(3);
-  update(1, 4);
-  delete(0);
-  for (int i = 0; i < n; i++) {
-    printf("%d ", array[i]);
+  int decision, value, index;
+  while (1) {
+    printf("1. Add\n");
+    printf("2. Update\n");
+    printf("3. Delete\n");
+    printf("4. Exit\n");
+    printf("Enter your decision: ");
+    scanf("%d", &decision);
+    switch (decision) {
+      case 1:
+        printf("Enter the value to be added: ");
+        scanf("%d", &value);
+        add(value);
+        break;
+      case 2:
+        printf("Enter the index of the value to be updated: ");
+        scanf("%d", &index);
+        printf("Enter the new value: ");
+        scanf("%d", &value);
+        update(index, value);
+        break;
+      case 3:
+        printf("Enter the index of the value to be deleted: ");
+        scanf("%d", &index);
+        delete(index);
+        break;
+      case 4:
+        for (int i = 0; i < n; i++) {
+          printf("%d ", array[i]);
+        }
+        printf("\n");
+        exit(0);
+      default:
+        printf("Invalid decision. Please enter a valid option.\n");
+        break;
+    }
   }
-  printf("\n");
   return 0;
 }
+
 
 // This implementation uses a fixed-size array of size MAX_SIZE to store the values, and the n variable to keep track of the number of elements currently stored in the array. The add function adds a new value to the end of the array, the update function updates the value at a specific index, and the delete function removes the value at a specific index.
