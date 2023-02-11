@@ -81,4 +81,6 @@ int main() {
 }
 
 
-// This implementation uses a fixed-size array of size MAX_SIZE to store the values, and the n variable to keep track of the number of elements currently stored in the array. The add function adds a new value to the end of the array, the update function updates the value at a specific index, and the delete function removes the value at a specific index.
+// This implementation uses a fixed-size array of size MAX_SIZE to store the values, and the n variable to keep track of the number of elements currently stored in the array. The add function adds a new value to the end of the array, the update function updates the value at a specific index, and the delete function removes the value at a specific index. 
+
+// In this code, the user is prompted to make a decision on what operation to perform (add, update, delete, or exit), and the appropriate function is called based on the decision. The program will keep prompting the user for a decision until they choose to exit the program.
