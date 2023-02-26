@@ -1,7 +1,6 @@
 // Find the given number in the Array.
 // The array contains random numbers between 1 to 2000000
 
-
 #include "stdio.h"
 #include "stdlib.h"
 #include "time.h"
