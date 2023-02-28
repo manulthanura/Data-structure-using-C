@@ -119,4 +119,9 @@ int main() {
 }
 
 
+// In this modified version, after the binary tree is constructed and printed, the user is prompted to enter the data value of the node they want to edit. After entering the old and new data values, the `edit_node` function is called to modify the node with the old data value to have the new data value. Then, the binary tree is printed again to show the modification.
+
+// Next, the user is prompted to enter the data value of the node they want to delete. After entering the value, the `delete_node` function is called to remove the node with that data value from the binary tree. Finally, the binary tree is printed again to show the deletion.
+
+
 
