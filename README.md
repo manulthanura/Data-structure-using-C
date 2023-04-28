@@ -32,6 +32,8 @@ The data structure means the way of arrangement of data. There are several data 
 - [Disjoint Set]()
 - [Suffix Array]() -->
 
+## Algorithms
+- [Searching](Random%20Numbers%20Search.c)
 
 **Love This? Give our repo a star :star: :arrow_up:.**
 
