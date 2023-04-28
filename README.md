@@ -35,6 +35,6 @@ The data structure means the way of arrangement of data. There are several data 
 ## Algorithms
 - [Searching](Random%20Numbers%20Search.c)
 
-**Love This? Give our repo a star :star: :arrow_up:.**
+**Love This? Give my repo a star :star:**
 
 By [manulthanura](https://github.com/manulthanura)
