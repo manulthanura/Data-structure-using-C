@@ -1,0 +1,3 @@
+# Dynamic programming Implementation
+
+Dynamic programming is a powerful algorithmic technique used to solve problems by breaking them down into smaller subproblems and reusing solutions to those subproblems. This technique is especially useful for problems with overlapping subproblems, where the same subproblem is solved multiple times. Here is an implementation of dynamic programming using C, with examples.
