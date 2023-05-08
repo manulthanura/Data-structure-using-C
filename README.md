@@ -7,10 +7,10 @@ The data structure means the way of arrangement of data. There are several data 
 - [Linked List](Linked%20List%20Data%20structure.c)
 - [Tree](Tree%20Data%20structure.c)
 - [Array](Array%20Data%20structure.c)
-- [Graph]()
+<!-- - [Graph]() -->
 - [Hashing](Hashing%20data%20structure.c)
-- [Heap]()
-- [Matrix]()
+<!-- - [Heap]()
+- [Matrix]() -->
 <!-- - [Miscellaneous]()
 - [Searching and Sorting]()
 - [Recursion and Backtracking]()
@@ -34,6 +34,8 @@ The data structure means the way of arrangement of data. There are several data 
 
 ## Algorithms
 - [Searching](Random%20Numbers%20Search.c)
+- [Dynamic Programming](./Dynamic%20programming%20Implementation/README.md)
+- [Greedy Algorithms](./Greedy%20Implementation/README.md)
 
 **Love This? Give my repo a star :star:**
 
