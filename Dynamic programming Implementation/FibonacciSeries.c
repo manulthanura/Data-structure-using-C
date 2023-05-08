@@ -11,7 +11,9 @@ int fibonacci(int n) {
 }
 
 int main() {
-    int n = 10;
+    int n;
+    printf("Enter the number: ");
+    scanf("%d", &n);
     printf("The %dth number in the Fibonacci sequence is %d", n, fibonacci(n));
     return 0;
 }
