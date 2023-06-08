@@ -37,6 +37,9 @@ The data structure means the way of arrangement of data. There are several data 
 - [Dynamic Programming](./Dynamic%20programming%20Implementation/README.md)
 - [Greedy Algorithms](./Greedy%20Implementation/README.md)
 
+## Fun Facts
+-[Word Search](./Examples%20(Algorithms)/the%20word%20search.c)
+
 
 **Love This? Give my repo a star :star:**
 
