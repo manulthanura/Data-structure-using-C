@@ -39,6 +39,9 @@ The data structure means the way of arrangement of data. There are several data 
 
 ## Fun Facts
 - [Word Search](./Examples%20(Algorithms)/the%20word%20search.c)
+- [Simple Bug Game 01](./Examples%20(Algorithms)/Simple%20Bug%20Game%2001.c)
+- [Simple Bug Game 02](./Examples%20(Algorithms)/Simple%20Bug%20Game%2002.c)
+- [Tic Tac Toe](./Examples%20(Algorithms)/Tic%20Tac%20Toe.c)
 
 **Love This? Give my repo a star :star:**
 
