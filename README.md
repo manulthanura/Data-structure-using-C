@@ -38,7 +38,7 @@ The data structure means the way of arrangement of data. There are several data 
 - [Greedy Algorithms](./Greedy%20Implementation/README.md)
 
 ## Fun Facts
-- [Word Search](./Examples%20(Algorithms)/The%20Word%20Search%20Game.c)
+- [Word Search](./Examples%20(Algorithms)/The%20Word%20Search%20Game)
 - [Simple Bug Game 01](./Examples%20(Algorithms)/Simple%20bug%20game%20-%2001.c)
 - [Simple Bug Game 02](./Examples%20(Algorithms)/Simple%20bug%20game%20-%2002.c)
 - [Tic Tac Toe](./Examples%20(Algorithms)/Tic%20Tac%20Toe%20game.c)
