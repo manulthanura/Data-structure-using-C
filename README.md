@@ -34,7 +34,7 @@ The data structure means the way of arrangement of data. There are several data 
 
 ## Algorithms
 - [Searching](Random%20Numbers%20Search.c)
-- [Dynamic Programming](./Dynamic%20programming%20Implementation/README.md)
+- [Dynamic Programming](./Dynamic%20programming%20Implementation/DP.md)
 - [Greedy Algorithms](./Greedy%20Implementation/README.md)
 
 ## Fun Facts
