@@ -1,3 +1,9 @@
+/* 
+Heap Data Structure implementation
+Date created: Monday; June 19, 2023
+
+In this code, you can perform operations on a heap data structure, including inserting elements, deleting elements, and printing the heap. The program will keep prompting the user for a decision until they choose to exit.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
