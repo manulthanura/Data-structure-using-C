@@ -2,6 +2,8 @@
 
 The data structure means the way of arrangement of data. There are several data structures in the world. However, this repository shows some of the data structures build using the C language.
 
+![GitHub](https://img.shields.io/github/license/manulthanura/Data-structure-using-C) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/Data-structure-using-C)
+
 ## Data Structures
 - [Stack](Stack%20Data%20structure.c)
 - [Queue](Queue%20Data%20structure.c)
