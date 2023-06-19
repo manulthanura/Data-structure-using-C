@@ -1,5 +1,5 @@
 /* Graph Data Structure implementation
-Date created: Saturday; June 19, 2023.
+Date created: Monday; June 19, 2023.
 
 In this code, the user is prompted to make a decision on what operation to perform (add, update, delete, print or exit), and the appropriate function is called based on the decision. The program will keep prompting the user for a decision until they choose to exit the program.*/
 
