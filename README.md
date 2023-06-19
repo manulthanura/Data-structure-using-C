@@ -8,7 +8,7 @@ The data structure means the way of arrangement of data. There are several data 
 - [Tree](Tree%20Data%20structure.c)
 - [Array](Array%20Data%20Structure.c)
 - [Hashing](Hashing%20data%20structure.c)
-<!-- - [Graph]() -->
+- [Graph](./Graph%20Data%20Structure.c)
 <!-- - [Heap]()
 - [Matrix]() -->
 <!-- - [Miscellaneous]()
