@@ -1,4 +1,5 @@
 # Data-structure-using-C
+
 The data structure means the way of arrangement of data. There are several data structures in the world. However, this repository shows some of the data structures build using the C language.
 
 ## Data Structures
@@ -8,7 +9,7 @@ The data structure means the way of arrangement of data. There are several data 
 - [Tree](Tree%20Data%20structure.c)
 - [Array](Array%20Data%20Structure.c)
 - [Hashing](Hashing%20data%20structure.c)
-<!-- - [Graph]() -->
+- [Graph](./Graph%20Data%20Structure.c)
 <!-- - [Heap]()
 - [Matrix]() -->
 <!-- - [Miscellaneous]()
@@ -45,4 +46,4 @@ The data structure means the way of arrangement of data. There are several data 
 
 **Love This? Give my repo a star :star:**
 
-By [manulthanura](https://github.com/manulthanura)
+By [manulthanura](https://github.com/manulthanura) © 2023
