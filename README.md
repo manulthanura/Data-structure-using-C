@@ -45,4 +45,4 @@ The data structure means the way of arrangement of data. There are several data 
 
 **Love This? Give my repo a star :star:**
 
-By [manulthanura](https://github.com/manulthanura)
+By [manulthanura](https://github.com/manulthanura) © 2023
