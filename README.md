@@ -5,16 +5,16 @@ The data structure means the way of arrangement of data. There are several data 
 ![GitHub](https://img.shields.io/github/license/manulthanura/Data-structure-using-C) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/Data-structure-using-C) ![GitHub top language](https://img.shields.io/github/languages/top/manulthanura/Data-structure-using-C) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Data-structure-using-C)
 
 ## Data Structures
+- [Linked List](Linked%20List%20Data%20structure.c)
 - [Stack](Stack%20Data%20structure.c)
 - [Queue](Queue%20Data%20structure.c)
-- [Linked List](Linked%20List%20Data%20structure.c)
 - [Tree](Tree%20Data%20structure.c)
 - [Array](Array%20Data%20Structure.c)
 - [Hashing](Hashing%20data%20structure.c)
 - [Graph](./Graph%20Data%20Structure.c)
 <!-- - [Heap]()
-- [Matrix]() -->
-<!-- - [Miscellaneous]()
+- [Matrix]()
+- [Miscellaneous]()
 - [Searching and Sorting]()
 - [Recursion and Backtracking]()
 - [Dynamic Programming]()
@@ -41,7 +41,7 @@ The data structure means the way of arrangement of data. There are several data 
 - [Greedy Algorithms](./Greedy%20Implementation/Greedy%20Implementation.md)
 
 ## Fun Facts
-- [Word Search](./Examples%20(Algorithms)/The%20Word%20Search%20Game)
+- [Word Search](./Examples%20(Algorithms)/The%20Word%20Search%20Game/WSG.md)
 - [Simple Bug Game 01](./Examples%20(Algorithms)/Simple%20bug%20game%20-%2001.c)
 - [Simple Bug Game 02](./Examples%20(Algorithms)/Simple%20bug%20game%20-%2002.c)
 - [Tic Tac Toe](./Examples%20(Algorithms)/Tic%20Tac%20Toe%20game.c)
