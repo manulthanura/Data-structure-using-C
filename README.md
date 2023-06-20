@@ -14,7 +14,6 @@ The data structure means the way of arrangement of data. There are several data 
 - [Graph](./Data%20Structures/Graph%20Data%20Structure.c)
 - [Hashing](./Data%20Structures/Hashing%20data%20structure.c)
 - [Heap](./Data%20Structures/Heap%20Data%20Structure.c)
-- [Heap](./Data%20Structures/Heap%20Data%20Structure.c)
 <!-- - [Heap]()
 - [Matrix]()
 - [Miscellaneous]()
@@ -39,9 +38,9 @@ The data structure means the way of arrangement of data. There are several data 
 - [Suffix Array]() -->
 
 ## Algorithms
-- [Searching](Random%20Numbers%20Search.c)
-- [Dynamic Programming](./Dynamic%20programming%20Implementation/DP.md)
-- [Greedy Algorithms](./Greedy%20Implementation/Greedy%20Implementation.md)
+- [Searching](./Algorithms/Random%20Numbers%20Search.c)
+- [Dynamic Programming](./Algorithms/Dynamic%20programming%20Implementation/DP.md)
+- [Greedy Algorithms](./Algorithms/Greedy%20Implementation/Greedy%20Implementation.md)
 
 ## Fun Facts
 - [Word Search](./Examples%20(Algorithms)/The%20Word%20Search%20Game/WSG.md)
@@ -49,6 +48,6 @@ The data structure means the way of arrangement of data. There are several data 
 - [Simple Bug Game 02](./Examples%20(Algorithms)/Simple%20bug%20game%20-%2002.c)
 - [Tic Tac Toe](./Examples%20(Algorithms)/Tic%20Tac%20Toe%20game.c)
 
-**Love This? Give my repo a star :star:**
+**Love This? Give my repo a star :star:** So that you can find it easily next time you need it! :heart:
 
 By [manulthanura](https://github.com/manulthanura) © 2023
