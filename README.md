@@ -5,9 +5,9 @@ The data structure means the way of arrangement of data. There are several data 
 ![GitHub](https://img.shields.io/github/license/manulthanura/Data-structure-using-C) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/Data-structure-using-C) ![GitHub top language](https://img.shields.io/github/languages/top/manulthanura/Data-structure-using-C) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Data-structure-using-C)
 
 ## Data Structures
+- [Linked List](Linked%20List%20Data%20structure.c)
 - [Stack](Stack%20Data%20structure.c)
 - [Queue](Queue%20Data%20structure.c)
-- [Linked List](Linked%20List%20Data%20structure.c)
 - [Tree](Tree%20Data%20structure.c)
 - [Array](Array%20Data%20Structure.c)
 - [Hashing](Hashing%20data%20structure.c)
