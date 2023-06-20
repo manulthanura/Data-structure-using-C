@@ -12,9 +12,9 @@ The data structure means the way of arrangement of data. There are several data 
 - [Array](Array%20Data%20Structure.c)
 - [Hashing](Hashing%20data%20structure.c)
 - [Graph](./Graph%20Data%20Structure.c)
-<!-- - [Heap]()
-- [Matrix]() -->
-<!-- - [Miscellaneous]()
+- [Heap]()
+- [Matrix]()
+- [Miscellaneous]()
 - [Searching and Sorting]()
 - [Recursion and Backtracking]()
 - [Dynamic Programming]()
@@ -33,7 +33,7 @@ The data structure means the way of arrangement of data. There are several data 
 - [AVL Tree]()
 - [K Dimensional Tree]()
 - [Disjoint Set]()
-- [Suffix Array]() -->
+- [Suffix Array]()
 
 ## Algorithms
 - [Searching](Random%20Numbers%20Search.c)
