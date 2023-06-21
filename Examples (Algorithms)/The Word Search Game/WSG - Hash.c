@@ -112,9 +112,18 @@ int main() {
     }
 
     end = clock(); // time ends
+    
     /* Get the time taken by program to execute in seconds */
     double duration = ((double)end - start)/CLOCKS_PER_SEC;
-    printf("Time taken to execute in seconds : %f", duration); // print time
+    printf("Time taken to execute in seconds : %f \n", duration); // print time
+
+    // Calculate the time in miliseconds
+    double duration_ms = duration * 1000;
+    printf("Time taken: %f miliseconds\n", duration_ms);
+
+    // Calculate the time in nanoseconds
+    double duration_ns = duration * 1000000000;
+    printf("Time taken: %f nanoseconds\n", duration_ns);
 
     freeHashTable();
 
