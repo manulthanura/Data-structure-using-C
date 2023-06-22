@@ -1,3 +1,6 @@
+/* Set Data structure implementation
+Date created: Thursday, June 22, 2023 */
+
 #include <stdio.h>
 #include <stdlib.h>
 
