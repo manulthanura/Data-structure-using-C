@@ -49,6 +49,14 @@ The data structure means the way of arrangement of data. There are several data 
 - [Simple Bug Game 02](./Examples%20(Algorithms)/Simple%20bug%20game%20-%2002.c)
 - [Tic Tac Toe](./Examples%20(Algorithms)/Tic%20Tac%20Toe%20game.c)
 
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This repository is licensed under [MIT](https://choosealicense.com/licenses/mit/) License.
+
+## Support
+If you like this repo, please consider to support me.
 **Love This? Give my repo a star :star:** So that you can find it easily next time you need it! :heart:
 
 By [manulthanura](https://github.com/manulthanura) © 2023
