@@ -2,7 +2,7 @@
 
 The data structure means the way of arrangement of data. There are several data structures in the world. However, this repository shows some of the data structures build using the C language.
 
-![GitHub](https://img.shields.io/github/license/manulthanura/Data-structure-using-C) ![GitHub Repo stars](https://img.shields.io/github/stars/manulthanura/Data-structure-using-C) ![GitHub top language](https://img.shields.io/github/languages/top/manulthanura/Data-structure-using-C) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Data-structure-using-C)
+![Static Badge](https://img.shields.io/badge/Repo-Data_structure_using_C-orange) ![GitHub](https://img.shields.io/github/license/manulthanura/Data-structure-using-C) https://img.shields.io/github/stars/manulthanura/Data-structure-using-C?color=yellow ![GitHub top language](https://img.shields.io/github/languages/top/manulthanura/Data-structure-using-C) ![GitHub last commit](https://img.shields.io/github/last-commit/manulthanura/Data-structure-using-C)
 
 ## Data Structures
 - [Linked List](./Data%20Structures/Linked%20List%20Data%20structure.c)
