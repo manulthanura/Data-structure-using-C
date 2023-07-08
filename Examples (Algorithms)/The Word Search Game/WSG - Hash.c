@@ -1,16 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-# include<time.h>
-#define MAX_WORD_LENGTH 100
-#define HASH_TABLE_SIZE 1000003
+#include<time.h>
+#define MAX_WORD_LENGTH 100 // the maximum length of a word in the hash table is 100 characters
+#define HASH_TABLE_SIZE 1000003 // the size of the hash table is 1000003
 
 typedef struct Node {
-    char word[MAX_WORD_LENGTH];
-    struct Node* next;
+    char word[MAX_WORD_LENGTH]; // 'word' used to store the word that is stored in the Node struct
+    struct Node* next; // 'next' used to point to the next Node struct in the linked list
 } Node;
 
-Node* hashTable[HASH_TABLE_SIZE];
+Node* hashTable[HASH_TABLE_SIZE]; // hashTable array is used to store the linked lists of words that hash to the same index in the hash table.
 
 unsigned long hash(const char* str) {
     unsigned long hash = 5381;
@@ -24,7 +24,7 @@ unsigned long hash(const char* str) {
 }
 
 void insertWord(const char* word) {
-    unsigned long index = hash(word);
+    unsigned long index = hash(word); // called to calculate the hash of the word
 
     Node* newNode = (Node*)malloc(sizeof(Node));
     strcpy(newNode->word, word);
@@ -42,7 +42,7 @@ void insertWord(const char* word) {
 }
 
 int checkWordInDatabase(const char* word) {
-    unsigned long index = hash(word);
+    unsigned long index = hash(word); // calculate the hash
 
     if (hashTable[index] == NULL) {
         return 0; // Word not found in the database
@@ -112,7 +112,6 @@ int main() {
     }
 
     end = clock(); // time ends
-    
     /* Get the time taken by program to execute in seconds */
     double duration = ((double)end - start)/CLOCKS_PER_SEC;
     printf("Time taken to execute in seconds : %f \n", duration); // print time
