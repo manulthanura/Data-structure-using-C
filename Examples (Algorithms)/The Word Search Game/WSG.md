@@ -13,3 +13,9 @@ For this experiment, I used a database that includes more than 100,000 words. Th
 The Linear Search algorithm is a brute-force algorithm that sequentially searches for a target value in a list. It's a simple algorithm that's easy to implement and understand. However, it's not the most efficient algorithm for searching large databases. The Linear Search algorithm has a time complexity of O(n), which means that the time it takes to search for a word in a database is proportional to the size of the database.
 
 Example code: [Linear Search Algorithm](./WSG%20-%20linear%20search.c)
+
+## Speed of the Hash Algorithm
+
+The Hash algorithm is a more efficient algorithm for searching large databases. It uses a hash function to map a word to a unique number. The hash function is a mathematical function that takes a word as input and returns a number as output. 
+
+Example code: [Hash Algorithm](./WSG%20-%20Hash.c)
