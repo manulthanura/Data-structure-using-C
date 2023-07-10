@@ -52,7 +52,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 This repository is licensed under [Creative Commons Zero v1.0 Universal](https://github.com/manulthanura/Data-structure-using-C/blob/main/LICENSE) License. 
-![Static Badge](https://img.shields.io/badge/Creative_Commons_Zero_v1.0-blue)
+
+![Static Badge](https://img.shields.io/badge/License-Creative_Commons_Zero_v1.0-blue)
 
 ## Support
 If you like this repo, please consider to support me.
