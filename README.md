@@ -56,7 +56,7 @@ This repository is licensed under [Creative Commons Zero v1.0 Universal](https:/
 ![Static Badge](https://img.shields.io/badge/License-Creative_Commons_Zero_v1.0-blue)
 
 ## Support
-If you like this repo, please consider to support me.
+
 **Love This? Give my repo a star :star:** So that you can find it easily next time you need it! :heart:
 
 By [manulthanura](https://github.com/manulthanura) © 2023
