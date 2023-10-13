@@ -3,6 +3,7 @@
 Greedy algorithms are a class of algorithms that make locally optimal choices at each step, with the hope of finding a global optimum. Here is an implementation of greedy algorithms using C, with examples.
 
 ## Example 1: Fractional Knapsack
+
 The fractional knapsack problem is a classic example of a greedy algorithm. The problem is to fill a knapsack with a given capacity with items of different weights and values, such that the total value of the items in the knapsack is maximized. Here is an implementation of the fractional knapsack problem using a greedy algorithm:
 
 ```
@@ -50,6 +51,7 @@ int main() {
 In this implementation, we first calculate the density of each item by dividing its value by its weight. Then we sort the items in descending order of density, so that we choose the most valuable items first. We loop through the sorted items and add them to the knapsack until it is full. If an item cannot fit completely into the knapsack, we add a fraction of it proportional to the remaining capacity. Finally, we return the total value of the items in the knapsack.
 
 ## Example 2: Activity Selection
+
 The activity selection problem is another classic example of a greedy algorithm. The problem is to select the maximum number of activities that can be performed by a single person or machine, assuming that a person can only work on a single activity at a time. Here is an implementation of the activity selection problem using a greedy algorithm:
 
 ```
