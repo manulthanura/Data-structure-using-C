@@ -29,6 +29,7 @@ int main() {
 In this implementation, we create an array called memo that stores the results of previous calculations. We start by initializing memo[0] and memo[1] to the first two numbers in the sequence. Then we loop through the remaining numbers and calculate each one by adding the two preceding numbers together. Finally, we return the nth number in the sequence.
 
 ## Example 2: Coin Change
+
 The coin change problem is a classic example of dynamic programming. The problem is to find the minimum number of coins needed to make a given amount of change, using a given set of coin denominations. Here is an implementation of the coin change problem using dynamic programming:
 
 ```
