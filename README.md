@@ -52,7 +52,7 @@ The data structure means the way of arrangement of data. There are several data 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-This repository is licensed under [Creative Commons Zero v1.0 Universal](https://github.com/manulthanura/Data-structure-using-C/blob/main/LICENSE) License. 
+This repository is licensed under [Creative Commons Zero v1.0 Universal](https://github.com/manulthanura/Data-structure-using-C/blob/main/LICENSE) License.
 
 ![Static Badge](https://img.shields.io/badge/License-Creative_Commons_Zero_v1.0-blue)
 
