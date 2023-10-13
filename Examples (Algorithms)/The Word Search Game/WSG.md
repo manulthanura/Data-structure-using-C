@@ -16,6 +16,6 @@ Example code: [Linear Search Algorithm](./WSG%20-%20linear%20search.c)
 
 ## Speed of the Hash Algorithm
 
-The Hash algorithm is a more efficient algorithm for searching large databases. It uses a hash function to map a word to a unique number. The hash function is a mathematical function that takes a word as input and returns a number as output. 
+The Hash algorithm is a more efficient algorithm for searching large databases. It uses a hash function to map a word to a unique number. The hash function is a mathematical function that takes a word as input and returns a number as output.
 
 Example code: [Hash Algorithm](./WSG%20-%20Hash.c)
