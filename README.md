@@ -16,7 +16,7 @@ The data structure means the way of arrangement of data. There are several data 
 - [Heap](./Data%20Structures/Heap%20Data%20Structure.c)
 - [Set](./Data%20Structures/Set%20Data%20Structure.c)
 
-<!-- - [Heap]()
+<!--
 - [Matrix]()
 - [Miscellaneous]()
 - [Searching and Sorting]()
