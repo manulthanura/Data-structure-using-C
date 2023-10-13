@@ -62,4 +62,5 @@ int main() {
 }
 
 ```
+
 In this implementation, we create an array called memo that stores the minimum number of coins needed to make each amount of change. We start by initializing memo[0] to 0, since no coins are needed to make 0 cents. Then we loop through the remaining amounts and calculate the minimum number of coins needed for each one by iterating through the coin denominations and checking if each coin can be used to make the current amount of change. If so, we subtract the coin value from the current amount and look up the minimum number of coins needed to make the remaining amount in memo. We update memo[i] if the new minimum is smaller than the current value. Finally, we return memo[amount], which contains the minimum number of coins needed to make the given amount of change.
