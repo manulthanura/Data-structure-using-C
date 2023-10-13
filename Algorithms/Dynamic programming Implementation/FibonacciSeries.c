@@ -1,4 +1,4 @@
-The Fibonacci sequence is a classic example of dynamic programming. The sequence starts with 0 and 1, and each subsequent number is the sum of the two preceding ones.
+// The Fibonacci sequence is a classic example of dynamic programming. The sequence starts with 0 and 1, and each subsequent number is the sum of the two preceding ones.
 
 #include <stdio.h>
 
